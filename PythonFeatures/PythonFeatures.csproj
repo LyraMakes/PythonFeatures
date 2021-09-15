@@ -6,6 +6,17 @@
         <Company>LyraMakes</Company>
         <NeutralLanguage>en-US</NeutralLanguage>
         <RootNamespace>LyraMakes.PythonFeatures</RootNamespace>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>LyraMakes.PythonFeatures</PackageId>
+        <Title>PythonFeatures</Title>
+        <Authors>LyraMakes</Authors>
+        <Description>Package to attempt to integrate Python Features into C# and .NET.</Description>
+        <Copyright>2021 LyraMakes</Copyright>
+        <PackageProjectUrl>https://github.com/LyraMakes/PythonFeatures</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/LyraMakes/PythonFeatures/blob/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/LyraMakes/PythonFeatures</RepositoryUrl>
+        <RepositoryType>Github</RepositoryType>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     </PropertyGroup>
 
 </Project>
